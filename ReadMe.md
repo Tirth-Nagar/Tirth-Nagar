@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏽 I'm Tirth a Computer Engineering student @ McMaster<br>🔭 I’m currently working on a system to auto-update project descriptions, images, and more, all on your portfolio website!.<br>👯 I’m looking to collaborate on projects merging hardware and software to create groundbreaking solutions.<br>🌱 I’m currently learning more about between bridging the gap between finance and computer science, leveraging technology to enhance financial strategies and decision-making.<br>⚡ Seeking summer 2024 software internships. Let's connect! Email me at nagart1@mcmaster.ca
+👋🏽 I'm Tirth a Computer Engineering student @ McMaster<br>🔭 I’m currently working on a system to auto-update project descriptions, images, and more, all on your portfolio website!.<br>👯 I’m looking to collaborate on projects merging hardware and software to create groundbreaking solutions.<br>🌱 I’m currently learning more about between bridging the gap between finance and computer science, leveraging technology to enhance financial strategies and decision-making.<br>⚡ Seeking summer 2025 software internships. Let's connect! Email me at nagart1@mcmaster.ca
 
 
 ## 🌐 Socials:
